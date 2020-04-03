@@ -12,4 +12,4 @@
 # und diese direkt aus der Applikation abspielen zu k�nnen.
 # Der User soll die Option haben Profileinstellungen vornehmen
 # zu k�nnen, so z.B. seine favorisierten Dienste zu markieren
-# oder Dienste hinzuzuf�gen und zu l�schen.
+# oder Dienste hinzuzuf�gen und zu l�schen
