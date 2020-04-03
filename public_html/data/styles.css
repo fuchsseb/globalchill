@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial Standard', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -10,49 +10,44 @@
   line-height:normal;
   text-transform:none;
 }
-.shape {
-}
 .box_1 {
 }
-.primary_button {
-  color:#FFFFFF;
-}
 .heading_1 {
-  font-family:'Arial Standard', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial Standard', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 .heading_3 {
-  font-family:'Arial Standard', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 .heading_4 {
-  font-family:'Arial Standard', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 .heading_5 {
-  font-family:'Arial Standard', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 .heading_6 {
-  font-family:'Arial Standard', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -61,25 +56,9 @@
 .paragraph {
   text-align:left;
 }
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.list_box {
-  color:#000000;
-  text-align:left;
-}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
-}
-.flow_shape {
-}
-.connector {
 }
 textarea, select, input, button { outline: none; }
